@@ -10,7 +10,7 @@ to use, copy, modify, merge, publish, distribute, sublicense, etc. this project.
 
 #### How to run the project
 - Download all the files in this repo and run `final_project.ipynb` step by step.
-- First need to install geopandas, pandas, seaborn, matplotlib.pyplot library in local. Or run the project on[ https://jupyter.rttl.uw.edu/2022-spring-hcde-410-a/user/lxzhe718/lab/tree/HCDE410SP22/final_project/final_project.ipynb](https://jupyter.rttl.uw.edu/2022-spring-hcde-410-a/user/lxzhe718/lab/tree/HCDE410SP22/final_project) (only for UW and map part might not work because their is no geopanda in the jupyter hub)
+- First need to install geopandas, pandas, seaborn, matplotlib.pyplot library in local. Or run the project on https://jupyter.rttl.uw.edu/2022-spring-hcde-410-a/hub/user-redirect/lab/tree/HCDE410SP22/final_project/final_project.ipynb (only for UW and map part might not work because their is no geopanda in the jupyter hub)
 - All the files written in the relevant path. If some parts do not work, replace them with an absolute path.
 
 
